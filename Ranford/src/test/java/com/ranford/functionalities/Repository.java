@@ -161,7 +161,10 @@ public class Repository extends Base{
 		driver.close();
 		extentreport.endTest(extentTest);
 		extentreport.flush();
+		System.out.println("Thankx");
 	}
+	
+	
 	
 	
 
